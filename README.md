@@ -1,1 +1,2 @@
-# USACO2023
+# USACO2024
+2024 January
