@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class USACOSILVER1REDO {
+public class USACO2023SILVER1 {
     static StringTokenizer st;
     static BufferedReader br;
     static PrintWriter out;
